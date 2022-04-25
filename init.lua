@@ -33,7 +33,7 @@ Config.EnableOutline = false
 Config.Toggle = false
 
 -- Draw a Sprite on the center of a PolyZone to hint where it's located
-Config.DrawSprite = false
+Config.DrawSprite = true
 
 -- The default distance to draw the Sprite
 Config.DrawDistance = 10.0
@@ -48,7 +48,7 @@ Config.SuccessDrawColor = {30, 144, 255, 255}
 Config.OutlineColor = {255, 255, 255, 255}
 
 -- Enable default options (Toggling vehicle doors)
-Config.EnableDefaultOptions = true
+Config.EnableDefaultOptions = false
 
 -- Disable the target eye whilst being in a vehicle
 Config.DisableInVehicle = false
