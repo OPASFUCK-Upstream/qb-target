@@ -3,8 +3,8 @@ const Targeting = Vue.createApp({
         return {
             Show: false,
             ChangeTextIconColor: false, // This is if you want to change the color of the icon next to the option text with the text color
-            StandardEyeIcon: "far fa-eye",
-            CurrentIcon: "far fa-eye",
+            StandardEyeIcon: "fas fa-hand-back-point-up",
+            CurrentIcon: "fas fa-hand-back-point-up",
             SuccessColor: "rgb(30, 144, 255)",
             StandardColor: "white",
             TargetHTML: "",
